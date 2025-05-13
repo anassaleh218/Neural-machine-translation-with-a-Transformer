@@ -55,8 +55,8 @@ Here is a brief comparison of the final training outcomes:
 | :------------------ | :-------------------------- | :-------------------------- | :------------------------- |
 | **Dataset Size** | Smaller (~10k pairs)        | Larger (~24k pairs)         | Larger (~24k pairs)        |
 | **Model Type** | From Scratch                | From Scratch                | Fine-tuned Pre-trained     |
-| **Epochs** | 60                          | 45                          | 4                          |
-| **Total Train Time**| ~10.7 min                   | ~2.4 hours                  | ~3.4 hours                 |
+| **Epochs** | 60                          | 45                          | 2                          |
+| **Total Train Time**| ~10.7 min                   | ~2.4 hours                  | ~8.9 hours                 |
 | **Final Train Loss**| 0.1164                      | 1.2217                      | **0.2109** |
 | **Final Test BLEU** | 0.0391 | 0.0049                      | **43.117** |
 
