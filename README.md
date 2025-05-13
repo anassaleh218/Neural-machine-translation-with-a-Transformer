@@ -5,7 +5,7 @@ This repository contains code and experiments for building and evaluating Neural
 
 Our Reference to build a custom Transformer model from scratch:  [https://www.tensorflow.org/text/tutorials/transformer](https://www.tensorflow.org/text/tutorials/transformer)
 
-[Our Presentation](https://gamma.app/docs/Arabic-English-Neural-Machine-Translation-using-Transformer-3zdxhjuta1hld8f) 
+[Our Presentation Link](https://gamma.app/docs/Arabic-English-Neural-Machine-Translation-using-Transformer-3zdxhjuta1hld8f) 
 ## Datasets
 
 Two parallel corpora were used for training and evaluation:
@@ -58,10 +58,5 @@ Here is a brief comparison of the final training outcomes:
 | **Epochs** | 60                          | 45                          | 4                          |
 | **Total Train Time**| ~10.7 min                   | ~2.4 hours                  | ~3.4 hours                 |
 | **Final Train Loss**| 0.1164                      | 1.2217                      | **0.2109** |
-| **Final Test BLEU** | **0.0391** | 0.0049                      | *43.117* |
+| **Final Test BLEU** | 0.0391 | 0.0049                      | **43.117** |
 
-*Note: Final test metrics for the MBart model were not available in the provided logs, but a pre-trained model is expected to achieve a significantly higher BLEU score than models trained from scratch on this dataset size.*
-
-## Getting Started
-
-*(Add instructions on how to set up the environment, download data, and run the code)*
