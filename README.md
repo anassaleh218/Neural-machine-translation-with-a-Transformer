@@ -5,7 +5,7 @@ This repository contains code and experiments for building and evaluating Neural
 
 Our Reference to build a custom Transformer model from scratch:  [https://www.tensorflow.org/text/tutorials/transformer](https://www.tensorflow.org/text/tutorials/transformer)
 
-[Presentation](https://gamma.app/docs/Arabic-English-Neural-Machine-Translation-using-Transformer-3zdxhjuta1hld8f) 
+[Our Presentation](https://gamma.app/docs/Arabic-English-Neural-Machine-Translation-using-Transformer-3zdxhjuta1hld8f) 
 ## Datasets
 
 Two parallel corpora were used for training and evaluation:
